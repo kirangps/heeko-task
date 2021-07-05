@@ -1,0 +1,27 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  h1 {
+    color: blue;
+  }
+  .move{
+   
+    position:absolute;
+  float:right;
+    bottom:50px;
+    right:40px;
+  
+    
+  }
+
+  .but1{
+    
+    position: absolute;
+    float: right;
+       top: 450px;
+       right:20px;
+
+
+  }
